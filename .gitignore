@@ -2,7 +2,14 @@ bin/
 
 obj/
 
+zad2neob.csproj
+
+zad10.csproj
+
+zad13.csproj
+
+zad15.csproj
+
+ZadFB.csproj
+
 .gitignore
-
-
-
